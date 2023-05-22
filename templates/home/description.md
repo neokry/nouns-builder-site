@@ -1,4 +1,4 @@
-# WTF is Noun Site?
+# WTF is Nouns Builder?
 
-Congrats on deploying your new nounish website ✨. Head to `/templates/home/description.md` to edit this description.
-For full documentation visit the [Noun Site](https://github.com/neokry/noun-site) page on github.
+Nouns Builder is a tool that allows any DAO to form and govern completely onchain, in the format of Nouns DAO.
+Nouns are an experimental attempt to improve the formation of onchain avatar communities. While projects such as Cryptopunks have attempted to bootstrap digital community and identity, Nouns attempt to bootstrap community and identity with the additive layer of governance and a treasury.
